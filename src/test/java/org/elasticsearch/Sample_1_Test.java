@@ -18,10 +18,10 @@
  */
 package org.elasticsearch;
 
-import org.apache.lucene.util.LuceneTestCase;
+import org.elasticsearch.test.ESTestCase;
 import org.junit.Test;
 
-public class Sample_1_Test extends LuceneTestCase {
+public class Sample_1_Test extends ESTestCase {
 
     @Test
     public void testThatPasses() {

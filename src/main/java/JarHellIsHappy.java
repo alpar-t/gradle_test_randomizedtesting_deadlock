@@ -16,16 +16,6 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package org.elasticsearch;
 
-import org.apache.lucene.util.LuceneTestCase;
-import org.junit.Test;
-
-public class Sample_100_Test extends LuceneTestCase {
-
-    @Test
-    public void testThatPasses() {
-        System.out.print("This test always passes: 100");
-    }
-
+public class JarHellIsHappy {
 }
